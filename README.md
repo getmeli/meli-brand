@@ -5,7 +5,6 @@
 </p>
 <h1 align="center">meli</h1>
 <p align="center">Open source platform for deploying static sites and frontend applications.</p>
-<hr/>
 
 ## Public branding
 
