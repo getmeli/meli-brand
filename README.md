@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://pmbot.io">
-    <img alt="Meli" src="./logo/meli-logo-circle-black" width="100"/>
+  <a href="https://meli.sh">
+    <img alt="Meli" src="./logo/meli-logo-circle-black.svg" width="100"/>
   </a>
 </p>
 <h1 align="center">meli</h1>
